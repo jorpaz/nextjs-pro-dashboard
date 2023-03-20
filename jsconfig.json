@@ -4,6 +4,10 @@
     "paths": {
       "@/*": ["./*"],
       "@styles/*":["styles/*"],
+      "@common/*":["common/*"],
+      "@components/*":["components/*"],
+      "@Layout/*":["Layout/*"],
+      "@heroicons/*":["heroicons/*"],
     }
   }
 }
