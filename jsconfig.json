@@ -8,6 +8,8 @@
       "@components/*":["components/*"],
       "@Layout/*":["Layout/*"],
       "@heroicons/*":["heroicons/*"],
+      "@hooks/*":["hooks/*"],
+      "@services/*":["services/*"],
     }
   }
 }
